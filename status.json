@@ -1,3 +1,4 @@
 {
-  "valid_keys": ["abc123", "xyz789", "denemeKEY"]
+  "username": "admin",
+  "password": "12345"
 }
