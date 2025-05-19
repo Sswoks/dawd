@@ -1,4 +1,4 @@
 {
-  "globalAccess": false,
-  "allowedUsers": ["Admin123", "DenemeKullanici"]
+  "username": "admin",
+  "password": "12345"
 }
